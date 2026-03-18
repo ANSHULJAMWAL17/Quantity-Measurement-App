@@ -1,7 +1,5 @@
 package org.apps.quantitymeasurement;
 
-import apps.quantitymeasurement.LengthUC4;
-import org.apps.quantitymeasurement.*;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 

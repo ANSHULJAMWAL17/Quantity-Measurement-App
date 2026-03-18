@@ -1,3 +1,5 @@
+package org.apps.quantitymeasurement;
+
 import org.apps.quantitymeasurement.QuantityMeasurementApp.Feet;
 import org.junit.jupiter.api.Test;
 
